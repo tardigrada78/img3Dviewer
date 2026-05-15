@@ -1,0 +1,12 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Image 3D Viewer
+Comment=MPO/JPS/JPG/PNG viewer with red-cyan anaglyph support
+Exec=python3 /home/USER/Programme/img3Dviewer.py %f
+Icon=/home/USER/Programme/img3Dviewer.png
+Terminal=false
+Categories=Graphics;Viewer;
+MimeType=image/jpeg;image/png;image/webp;image/avif;
+StartupNotify=true

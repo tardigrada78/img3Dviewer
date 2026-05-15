@@ -6,6 +6,8 @@ A lightweight desktop image viewer for Linux with red-cyan anaglyph 3D support. 
 ![PySide6](https://img.shields.io/badge/PySide6-Qt6-green)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
+Programmed with Anthropic Claude Sonnet 4.6
+
 ---
 
 ## Features
